@@ -4,7 +4,7 @@ Snow is a stochastic spectral masking effect from NeutronStar714's Pneutrino ser
 
 - **Amount, Mask Width, Cutoff and Grid Size** set the strength, duration, frequency range and smoothness of the mask.
 - **Phase Offset and Stereo Decouple** change the character of the mask and how independently it moves in the left and right channels.
-- **Dry, Wet and Makeup Gain** set the blend and output level. A live spectrum shows the signal and the mask.
+- **Dry, Wet and Makeup Gain** set the blend and output level. A scrolling spectrogram shows the processed frequencies over time.
 
 ## Build on Windows
 
